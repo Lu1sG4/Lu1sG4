@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luis (@Lu1sG4)
 - 👀 I’m interested in Coding and working with Hardware
-- 🌱 I’m currently doing my CS Bachelor in Germany Stuttgart
+- 🌱 I’m currently doing my CS Bachelor in Stuttgart, Germany
 <!-- 💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me @luism0109 [https://www.instagram.com/luism0109?r=nametag]
 
